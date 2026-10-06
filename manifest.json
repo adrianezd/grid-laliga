@@ -1,0 +1,19 @@
+{
+  "name": "Grid de LaLiga",
+  "short_name": "Grid LaLiga",
+  "description": "Reto diario: rellena la cuadrícula 3x3 con futbolistas que hayan jugado en los dos clubes de cada casilla.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b6e4f",
+  "theme_color": "#0b6e4f",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
